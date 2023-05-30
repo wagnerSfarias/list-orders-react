@@ -1,6 +1,6 @@
 <h1 align="center"> Lista de Pedidos</h1>
 
-Durante os meus estudos foi proposto um desafio, construir uma aplicação front-end com React totalmente responsiva, com o objetivo de realizar pedidos de uma lanchonete, listar todos os pedidos e deletar, os pedidos são armazenados em um array de objetos que está em uma aplicação backend desenvolvida com Node.
+Durante os meus estudos foi proposto um desafio, construir uma aplicação front-end com React totalmente responsiva, com o objetivo de realizar pedidos de uma hamburgueria, listar todos os pedidos e deletar, os pedidos são armazenados em um array de objetos que está em uma aplicação backend desenvolvida com Node.
 
 
 ## Layout 💻
