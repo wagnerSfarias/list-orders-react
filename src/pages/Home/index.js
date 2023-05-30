@@ -14,14 +14,14 @@ export default function Home() {
 
   async function handleOrder() {
     if (order === '' || name === '') {
-      toast.warn('Prencha todos os campos !!!')
+      toast.warn('Preencha todos os campos !!!')
       return
     }
     await toast.promise(
       api.post('/order', {order, clienteName: name, price: 10}),
       {
-        pending: 'Verificar seus dados',
-        success: 'Seja bem-vindo(a)',
+        pending: 'Verificando seus dados',
+        success: 'Pedido Realizado !',
         error: 'Erro no sitema, tente novamente !'
       }
     )
