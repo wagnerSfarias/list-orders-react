@@ -14,7 +14,7 @@ export default function Order() {
   useEffect(() => {
     async function loadOrder() {
       const response = await api.get('/order')
-      console.log(response.data)
+  
       setOrders(response.data)
     }
     loadOrder();
