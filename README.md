@@ -11,6 +11,7 @@ Os pedidos são armazenados em um array de objetos que está em uma aplicação 
 ![App Screenshot](https://github.com/wagnerSfarias/list-orders-react/blob/main/src/assets/home.gif?raw=true)
 
 <br>
+
 ## Tecnologias utilizadas 👨🏻‍💻
 
 **Front-end:** React, react-router-dom, axios, styled-components, react-toastify
